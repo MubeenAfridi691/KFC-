@@ -1,0 +1,11 @@
+.detail .images{
+    width: 400px;
+    
+    
+}
+.detail{
+    display: flex;
+    justify-content: space-around;
+    
+    margin-left: 100px;
+}

@@ -1,0 +1,24 @@
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+     align-items: end;
+     
+    
+}
+.logo img{ 
+    width: 200px;
+    height: 100px;
+}
+
+.auth-lisks ul{
+    display: flex;
+    list-style: none;
+    gap: 1rem; 
+    text-decoration: none;
+}
+
+.auth-lisks ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+}
